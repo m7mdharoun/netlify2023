@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Takeover Page by Haron!" />
+        <Header title="Welcome!" />
         <p className="description">
-          This is a small test <code>pages/index.js</code>
+          This will be fixed soon<code>pages/index.js</code>
         </p>
       </main>
 
