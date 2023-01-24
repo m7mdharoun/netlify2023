@@ -13,9 +13,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome!" />
+        <Header title="Welcome to Pastes.io!" />
         <p className="description">
-          You will redirect soon to Pastes.io <code>pages/index.js</code>
+          You will redirect soon to Pastes.io<code>pages/index.js</code>
         </p>
       </main>
 
