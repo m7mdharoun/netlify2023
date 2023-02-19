@@ -15,7 +15,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to simple page by Haron!" />
         <p className="description">
-          Please not this error will be fixed soon<code>pages/index.js</code>
+          Note : This App error will be fixed soon<code>pages/index.js</code>
         </p>
       </main>
 
