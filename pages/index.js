@@ -7,15 +7,15 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Next.js by Haron!</title>
-    <meta http-equiv="Refresh" content="2; url='https://pastes.io'" />
+    
 
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to Pastes.io!" />
+        <Header title="Welcome to simple page by Haron!" />
         <p className="description">
-          You will redirect soon to Pastes.io<code>pages/index.js</code>
+          Please not this error will be fixed soon<code>pages/index.js</code>
         </p>
       </main>
 
